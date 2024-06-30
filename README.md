@@ -6,5 +6,5 @@
 - 🌱 I currently use EXCEL, Python,  SQL and Business tool like;PowerBI for Data querying, data manipulation and visualization.
 -    I also create designs using figma and also uses html & css to bring my designs to life.
 -    i enjoy playing football
---> I use figma for designs and also uses html & css to bring myy designs to life.
+--> 
   
