@@ -7,13 +7,13 @@
 
 - 🔭 I’m currently working on [AI MOCK INTERVIEW STUDIO](https://gemini.google.com/share/9216a08e94a5)
 
-- 🌱 I’m currently learning **Generative AI and its application to product management**
+- 🌱 I’m currently learning **Generative AI and its application in product management & Project management**
 
-- 👯 I’m looking to collaborate on **Data, Machine Learning & Generative AI: Projects and Products**
+- 👯 I’m looking to collaborate on **Data, Machine Learning, and Generative AI – turning ideas into impactful projects and products**
 
-- 🤝 I’m looking for help with **Generative AI Projects, Product management**
+- 🤝 I’m looking for help with **knowledge-sharing, mentorship, and teaming up on projects in Product Management, Project Execution, and Data Analytics**
 
-- 👨‍💻 All of my projects are available at [https://www.behance.net/kunlekadri](https://www.behance.net/kunlekadri)
+- 👨‍💻 Some of my projects are available at [https://www.behance.net/kunlekadri](https://www.behance.net/kunlekadri)
 
 - 📝 I regularly write articles on [https://medium.com/@kadkun94](https://medium.com/@kadkun94)
 
