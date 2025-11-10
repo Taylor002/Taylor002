@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=taylor002" alt="taylor002" /></a> </p>
 
-[![Holopin Badge](https://holopin.io/holobytebadge/cmhly2ts30001ky04gw1q19zs.svg)](https://www.holopin.io/holobytebadge/cmhly2ts30001ky04gw1q19zs)
+[![Holopin Badge](https://holopin.me/Taylor002)](https://holopin.io/@Taylor002)
 
 
 - 🔭 I’m currently working on [AI MOCK INTERVIEW STUDIO](https://gemini.google.com/share/9216a08e94a5)
