@@ -6,12 +6,12 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=taylor002" alt="taylor002" /></a> </p>
 
 ### 🧩 My Holopin Badge  
-<a href="https://holopin.io/@Taylor002">
-  <img src="https://holopin.me/Taylor002" width="300" alt="Holopin badges of Taylor002">
+
+<a href="https://www.holopin.io/holobytebadge/cmhly2ts30001ky04gw1q19zs" target="_blank">
+  <img src="https://holopin.me/Taylor002" width="300" alt="Holobyte Badge - Hacktoberfest 2025">
 </a>
 
 **Earned my Holopin badge for contributing to Mautic in Hacktoberfest 2025! 🎉**
-
 
 - 🔭 I’m currently working on [AI MOCK INTERVIEW STUDIO](https://gemini.google.com/share/9216a08e94a5)
 
