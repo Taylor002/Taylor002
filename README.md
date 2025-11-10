@@ -8,6 +8,7 @@
 [![Holopin Badge](https://holopin.me/Taylor002)](https://holopin.io/@Taylor002)
 
 
+
 - 🔭 I’m currently working on [AI MOCK INTERVIEW STUDIO](https://gemini.google.com/share/9216a08e94a5)
 
 - 🌱 I’m currently learning **Generative AI and its application in product management & Project management**
@@ -42,7 +43,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=taylor002&" alt="taylor002" /></p>
 
-[![Holopin Badge](https://holopin.io/holobytebadge/cmhly2ts30001ky04gw1q19zs.svg)](https://www.holopin.io/holobytebadge/cmhly2ts30001ky04gw1q19zs)
+
 
 
 
