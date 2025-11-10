@@ -13,9 +13,6 @@
 **Earned my Holopin badge for contributing to Mautic in Hacktoberfest 2025! 🎉**
 
 
-
-These are my awesome Holopin badges! 🪄
-
 - 🔭 I’m currently working on [AI MOCK INTERVIEW STUDIO](https://gemini.google.com/share/9216a08e94a5)
 
 - 🌱 I’m currently learning **Generative AI and its application in product management & Project management**
