@@ -4,7 +4,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=taylor002&label=Profile%20views&color=0e75b6&style=flat" alt="taylor002" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=taylor002" alt="taylor002" /></a> </p>
+
 [![Holopin Badge](https://holopin.io/holobytebadge/cmhly2ts30001ky04gw1q19zs.svg)](https://www.holopin.io/holobytebadge/cmhly2ts30001ky04gw1q19zs)
+
+
 - 🔭 I’m currently working on [AI MOCK INTERVIEW STUDIO](https://gemini.google.com/share/9216a08e94a5)
 
 - 🌱 I’m currently learning **Generative AI and its application in product management & Project management**
