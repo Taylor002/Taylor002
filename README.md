@@ -38,3 +38,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=taylor002&show_icons=true&locale=en" alt="taylor002" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=taylor002&" alt="taylor002" /></p>
+[![Holopin Badge](https://holopin.io/holobytebadge/cmhly2ts30001ky04gw1q19zs.svg)](https://www.holopin.io/holobytebadge/cmhly2ts30001ky04gw1q19zs)
+
+
