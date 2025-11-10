@@ -6,9 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=taylor002" alt="taylor002" /></a> </p>
 
 
-<a href="https://holopin.io/@Taylor002">
-  <img src="https://holopin.me/Taylor002" width="350" alt="Holopin badges of Taylor002"/>
-</a>
+
 
 These are my awesome Holopin badges! 🪄
 
