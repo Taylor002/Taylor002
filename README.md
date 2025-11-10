@@ -5,11 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=taylor002" alt="taylor002" /></a> </p>
 
-### 🧩 ### 🧩 My Holopin Badge
-[![Holobyte Badge](https://holopin.io/holobytebadge/cmhly2ts30001ky04gw1q19zs)](https://www.holopin.io/holobytebadge/cmhly2ts30001ky04gw1q19zs)
 
-**Earned my Holopin badge for contributing to Mautic in Hacktoberfest 2025! 🎉**
-!
 <a href="https://holopin.io/@Taylor002">
   <img src="https://holopin.me/Taylor002" width="350" alt="Holopin badges of Taylor002"/>
 </a>
